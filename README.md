@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://www.facebook.com/valeriy.vilnin/">Valeriy</a> !  👋
+### Hi there, I'm <a href="https://www.facebook.com/valeriy.vilnin/"target=_blank">Valeriy</a>!  👋
 
 
 - 🌱 I’m currently learning c#
