@@ -7,4 +7,8 @@
 - 🎸 What I like: hiking, travelling, playing the bass and guitar, helping animals, streetfood
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvilnin&layout=compact)](https://github.com/vvilnin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvilnin&layout=compact)](https://github.com/vvilnin/Average_Sum_Learning)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvilnin)](https://github.com/vvilnin/github-readme-stats)
+
+
