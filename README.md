@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning c#
-- 📫 How to reach me: <a href="mailto:vvilnin@gmail.com"> by email</a>
+- 📫 How to reach me: <a href="mailto:vvilnin@gmail.com"> vvilnin@gmail.com</a>
 - ⚡ Fun fact: my dogs live in three different countries all over the world
 
 
